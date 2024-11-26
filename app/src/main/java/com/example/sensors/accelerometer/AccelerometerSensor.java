@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.sensors.R;
 
 
-//this accelerometer sensor check
+//this accelerometer sensor check 2
 public class AccelerometerSensor extends AppCompatActivity implements SensorEventListener {
 
     TextView text;
